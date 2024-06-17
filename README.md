@@ -1,0 +1,2 @@
+# stock-analysis
+second assignment
